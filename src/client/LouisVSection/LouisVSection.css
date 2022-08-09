@@ -1,0 +1,97 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
+.LouisSection {
+    padding-left: 2.5rem !important;
+    margin-bottom: 3rem !important;
+    margin-top: 3rem !important;
+    height: 24rem !important;
+    font-family: 'Montserrat' !important;
+}
+
+.productDiscount{
+    background-color: #c6ac9660 !important;
+}
+
+.bagProductImage{
+    position: relative;
+    right: 100%;
+    padding: 0px !important;
+    margin: 2px !important;
+    font-size: 20px;
+}
+
+.bagProductImage img{
+    width: 100% !important;
+    min-width: 310px !important;
+}
+
+.icon1{
+    left:140% !important
+}
+
+.icon2{
+    left:170% !important;
+}
+
+.icon3{
+    left:200% !important;
+}
+
+.DisountDetails{
+    color: black;
+}
+
+.sale1{
+    position: relative;
+    bottom: 6px;
+}
+
+.sale2{
+    position: relative;
+    bottom: 9px;
+}
+
+.orderBtn{
+    width:80%;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin: 5px;
+}
+
+.requestBtn,
+.shopBtn{
+    text-align: center !important;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    border-style: none;
+    padding: 12px;
+    background-color: white !important;
+    min-width: 50px;
+
+}
+
+.offerBtn{
+    text-align: center !important;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    border-style: none;
+    padding: 12px;
+    background-color: #C6AC96 !important;
+    min-width: 50px;
+}
+
+.offerBtn:hover{
+    font-weight: 600;
+    background-color: #fff !important;
+}
+
+.requestBtn:hover,
+.shopBtn:hover{
+    font-weight: 600;
+    background-color: #C6AC96 !important;
+
+}

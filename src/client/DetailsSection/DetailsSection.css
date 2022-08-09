@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
+.detailsReview {
+    font-family: 'Montserrat' !important;
+}
+
+textarea{
+    width:80%;
+    height: 100px;
+}
+
+.services{
+    border-radius: 5px;
+}

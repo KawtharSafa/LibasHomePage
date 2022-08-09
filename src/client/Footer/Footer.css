@@ -1,0 +1,89 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
+.FooterMain {
+    padding: 2.5rem !important;
+    font-family: 'Montserrat' !important;
+    background-color: #221F1E !important;
+
+}
+
+.FooterMain h5 {
+    min-height: 30px;
+    position: relative;
+    left: 7px;
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+}
+
+.FooterMain a {
+    font-size: 0.8rem !important;
+    margin: 8px !important;
+    text-decoration: none !important;
+    color: #f1f1f1 !important;
+    font-weight: 100 !important;
+}
+
+.FooterMain ul {
+    margin: 0;
+    padding: 0;
+}
+
+.FooterMain ul li {
+    text-align: left !important;
+    padding: 0;
+}
+
+.FooterMain ul li:hover,
+.FooterMain ul li:focus {
+    background-color: #5a5a5a67;
+    border-radius: 15px !important;
+    transition: background-color 1.5s ease-out 100ms;
+}
+
+.footerBottom {
+    font-size: 0.9rem !important;
+}
+
+.copyright:hover,
+.copyright:focus{
+    color:#5a5a5a;
+    transition: color 1s ease-out 50ms;
+}
+
+.toTopIcon{
+    color: #ffffff88;
+}
+
+.toTopIcon:hover,
+.toTopIcon:focus{
+    color: #ffffff;
+    transform: scale(1.25);
+    box-shadow: 2px 0px 10px #5a5a5a;
+    border-radius: 50px;
+    transition: 0.25s ease 20ms;
+
+}
+
+.icon:hover,
+.icon:focus{
+    color:#61564d;
+    fill: #ffffff;
+    transform: scale(1.5);
+    transition: fill 0.5s ease-out 50ms;
+    transition: color 0.5s ease-out 50ms;
+    transition: transform 0.5s ease-out 50ms;
+
+}
+
+.Appstore{
+    width:90px;
+    opacity: 60%;
+}
+
+.Appstore:hover,
+.Appstore:focus{
+    opacity: 100%;
+    box-shadow: 4px 3px 6px #ffffff4f;
+    transition: 0.5s ease-out 50ms;
+
+}

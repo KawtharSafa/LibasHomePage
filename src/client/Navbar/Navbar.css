@@ -1,0 +1,74 @@
+.mainNav{
+    height: 7.5rem !important;
+    width: 100% !important;
+    justify-content: center !important;
+  }
+  
+  .navContainer{
+    width: 100% !important;
+    justify-content: space-between !important;
+  }
+  
+  .navSearch{
+    width:40% !important;
+    float: left !important;
+  }
+  
+  .navbar-brand{
+    width:20% !important;
+  }
+  
+  .mainNavLinks{
+    width:40% !important;
+    float: right !important;
+  }
+  
+  .navbar-brand {
+    position: relative;
+    top:3px;
+    left: 20px;
+  }
+  
+  .navLinks a:hover, 
+  .navLinks a:focus{
+  color: rgb(32, 32, 32);
+  font-weight: 600;
+  background-color: rgba(143, 143, 143, 0.11);
+  border-radius: 10px;
+  height: 40px;
+  }
+  
+  .sellItem{
+    font-weight: 600;
+    color: #333 ;
+    background-color: #C6AC96 ;
+    border-color: transparent;
+    border-radius: 12px;
+    width: 120px;
+    padding: 3px;
+    position: relative;
+    top:3px;
+  }
+  
+  .sellItem:hover,
+  .sellItem:focus{
+    transform: scale(1.05);
+    box-shadow: 1px 4px 6px #29201842;
+    color: #C6AC96;
+    background-color: #333  ;
+  }
+  
+  .mainNavLinks{
+    float: left !important;
+  }
+  
+  .subNav{
+    background-color: #f5f5f5;
+    height: 65px;
+    width: 100%;
+  }
+  
+  .subNav a{
+    color: rgb(32, 32, 32) !important;
+  }
+  
